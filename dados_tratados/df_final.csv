@@ -4,6 +4,7 @@ ANO,NOME,ESCOLA,CIDADE,ESTADO,PREMIO
 0,Rene Salazar,Especial Academia de Ballet,São Paulo,SP,Melhor Honrosa
 0,Ricardo Scheir,Cia Pavilhão D,São Paulo,SP,Melhor Coreografia
 0,,Balé da Cidade de Teresina,Teresina,PI,Melhor Grupo
+1983,,Ballet Nella Hasner,Londrina,PR,Troféu Revelação
 1983,,Ana Maria Ballet,,,Troféu Revelação
 1984,,Ballet Eliana Karin,Rio de Janeiro,RJ,Troféu Transitório
 1985,,Grupo Raça,São Paulo,SP,Troféu Transitório
@@ -12,7 +13,7 @@ ANO,NOME,ESCOLA,CIDADE,ESTADO,PREMIO
 1987,Fernanda Diniz,Ballet Cristina Helena,Belo Horizonte,MG,Troféu Revelação
 1987,,Grupo Raça,São Paulo,SP,Troféu Transitório
 1988,Glenda Machado,Grupo do Curso de Dança Clássica do Teatro Guaira,Curitiba,PR,Troféu Revelação
-1988,,Grupo de Dança da UFPR,Curitiba,PR,Troféu Transitório
+1988,,Grupo de Dança da UFPR,Curitiba,PR,Prêmio Transitório
 1989,Sérgio Nunes de Melo Neto,Grupo de Art Ballet,Brasília,DF,Troféu Revelação
 1989,,Grupo de Dança da UFPR,Curitiba,PR,Melhor Coreografia
 1990,Daniela Severian,Grupo de Dança Clássica Ilusão e Vida,São Paulo,SP,Troféu Revelação 
@@ -54,6 +55,7 @@ ANO,NOME,ESCOLA,CIDADE,ESTADO,PREMIO
 1999,Ramona de Sáa,,,,Maitre Preparadora
 1999,Ricardo Almeida,Escola Danças Clássicas Teatro Guaira,,,Bolsas de Estudo
 1999,,Balé da Cidade de Teresina,Teresina,PI,Melhor Coreografia
+2000,,Cia Pavilhão D,,SP,Melhor Coreografia
 2000,Ana Carolina Pagano,Escola de Ballet Sesiminas,Belo Horizonte,MG,Melhor Bailarina
 2000,Ana Caroline Pagano Lima,Escola de Ballet Sesiminas,Belo Horizonte,MG,Melhor Bailarina
 2000,Andreia Dias,VD Mascotte,Rio de Janeiro,RJ,Prêmio Revelação
@@ -80,6 +82,7 @@ ANO,NOME,ESCOLA,CIDADE,ESTADO,PREMIO
 2003,Hélio da Silva,Grupo Beth Dorça,Uberaba,MG,Melhor Bailarino
 2003,,Grupo CBS Tap Factory,São José dos Campos,´SP,Melhor Grupo
 2004,Ariadne Okuyama B. Ferreira,Escola de Ballet Inês Amaral,São Paulo,SP,Melhor Bailarina
+2004,Daniel Henrique Camargo,Grupo Juvenil do Guaíra,,PR,Bailarino Revelação
 2004,Gênya Kolesnyk,Grupo Rama,Pirassununga,SP,Melhor Bailarino
 2004,Ricardo Scheir,Cia Pavilhão D,São Paulo,SP,Coreógrafo Revelação
 2004,,Ballet Elizabeth Vinader,Paraguai,,Melhor Grupo
@@ -171,17 +174,15 @@ Balé Clássico de Repertório - Balé Jovem do Centro Cultural Gustav Ritter",G
 2019,Paulo Vitor Rodrigues,Cia de Ballet Adriana Assaf,São Paulo,SP,Melhor Bailarino
 2019,,GandhiCats Project,Manaus,AM,Melhor Grupo
 2021,João Victor Massei,Instituto Marco de Dança,,SP,Prêmio Daniel Camargo
-2022,João Pedro Silva,Balé Júnior do Teatro Escola Basileu França,,GO,Prêmio Daniel Camargo
+2022,,ATM Grupo de Formação,,MG,Melhor Grupo
 2022,Alan Keller,Studio Arte Dança,,MG,Melhor Coreógrafo
+2022,João Pedro Silva,Balé Júnior do Teatro Escola Basileu França,,GO,Prêmio Daniel Camargo
+2022,Luciana Sagioro,Cia Petite Danse,,RJ,Melhor Bailarina
 2022,Matheus Brusa,MB2,,RS,Prêmio Especial
 2022,Victor Augusto Vaz,Balé do Teatro Escola Basileu França,,GO,Melhor Bailarino
-2022,Luciana Sagioro,Cia Petite Danse,,RJ,Melhor Bailarina
-2022,,ATM Grupo de Formação,,MG,Melhor Grupo
-2000,,Cia Pavilhão D,,SP,Melhor Coreografia
-2004,Daniel Henrique Camargo,Grupo Juvenil do Guaíra,,PR,Bailarino Revelação
-2023,João Pedro Silva,Balé do Teatro Escola Basileu França,,GO,Prêmio Daniel Camargo
-2023,Caique Bonforte,Núcleo de Dança Caique Bonforte,,RJ,Melhor Coreógrafo
 2023,,Programa Dançando na Escola - Escola Municipal Gov. Pedro Ivo Campos,,SC,Prêmio Especial Figurino e Trabalho de Pesquisa
-2023,Vinícius Freire,Ballet Fernanda Dangelo,,PE,Melhor Bailarino
-2023,Milena Gabriela Floriano,Raça Centro de Artes,,SP,Melhor Bailarina
 2023,A Dança Cósmica de Shiva,Street Company Tatiana Souza,,PR,Melhor Apresentação
+2023,Caique Bonforte,Núcleo de Dança Caique Bonforte,,RJ,Melhor Coreógrafo
+2023,João Pedro Silva,Balé do Teatro Escola Basileu França,,GO,Prêmio Daniel Camargo
+2023,Milena Gabriela Floriano,Raça Centro de Artes,,SP,Melhor Bailarina
+2023,Vinícius Freire,Ballet Fernanda Dangelo,,PE,Melhor Bailarino
